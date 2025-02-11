@@ -1,6 +1,6 @@
 # World-visa-serverless-convex-aplication
 
-Simle to dolist app serverless 
+Simple to dolist app serverless 
 steps
 npm i
 npm run dev
